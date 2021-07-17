@@ -1,1 +1,1 @@
-# time-series-analysis-excercises
+# there is python codes for RNN time series
