@@ -1,1 +1,1 @@
-# there is python codes for RNN time series
+# Time series with RNN codes exercise of python for time series data analysis, Udemy. 
